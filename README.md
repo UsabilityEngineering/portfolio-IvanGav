@@ -4,7 +4,7 @@ Hello. I'm a CSCI major and I'm excited to be in this class because (besides bei
 
 ## UX Team Project
 
-Coming soon.
+Coming soon
 
 ## UX Journal
 
