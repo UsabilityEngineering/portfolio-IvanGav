@@ -15,7 +15,7 @@ Profile manager in Firefox:
 
 ![firefox_pm](j01-1.png)
 
-As it's clearly visible, the Firefox way to open a profile manager is more **inefficient** - takes more time than needed, and the look of it in Firefox is much less **visually appealing** - does not look good, compared to Chrome.
+As it's clearly visible, the Firefox way to open a profile manager is more **inefficient** - takes more time than needed, and the look of it in Firefox is much less **visually appealing** - looks good, compared to Chrome.
 
 Unlike Chrome, there is also no way to automatically make a desktop shortcut to a Firefox profile. After looking in the online Firefox documentation, it turns out that a desktop shortcut to `firefox.exe -P profile_name` can open that profile from the desktop. The Firefox UI (user interface) does not have a way to do that automatically, but it can be set up manually. "Problem solved", I thought, and proceeded to set up and use my newly created profiles.
 
