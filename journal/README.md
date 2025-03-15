@@ -8,12 +8,12 @@ When I switched to using Firefox though, I realized the lack of well made profil
 
 Profile manager in Chrome:
 
-![chrome_pm](https://github.com/user-attachments/assets/b3a7a149-a750-47c4-8178-32ccc5700f53)
+![chrome_pm](j01-2.png)
 
 
 Profile manager in Firefox:
 
-![firefox_pm](https://github.com/user-attachments/assets/bf5d2ee5-dc22-4f90-8a9b-506c40f521de)
+![firefox_pm](j01-1.png)
 
 As it's clearly visible, the Firefox way to open a profile manager is more **inefficient** - takes more time than needed, and the look of it in Firefox is much less **visually appealing** - does not look good, compared to Chrome.
 
